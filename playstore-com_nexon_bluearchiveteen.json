@@ -1,0 +1,26 @@
+{
+  "api_version": "v1.1",
+  "market_game_id": "com.nexon.bluearchiveteen",
+  "latest_build_version": "1.90.429659",
+  "latest_build_number": "429659",
+  "min_build_version": "1.90.429659",
+  "min_build_number": "429659",
+  "patch": {
+    "patch_version": 1212,
+    "resource_path": "https://ba.dn.nexoncdn.co.kr/com.nexon.bluearchiveteen/fc05fd11b52c4dd5/resource-data.json",
+    "bdiff_path": [
+      {
+        "1206": "https://ba.dn.nexoncdn.co.kr/com.nexon.bluearchiveteen/nxpatch/53d247c6889b4e47/bdiff-data.json"
+      },
+      {
+        "1205": "https://ba.dn.nexoncdn.co.kr/com.nexon.bluearchiveteen/nxpatch/daf41df58d494f36/bdiff-data.json"
+      },
+      {
+        "1203": "https://ba.dn.nexoncdn.co.kr/com.nexon.bluearchiveteen/nxpatch/c10b946850b04edf/bdiff-data.json"
+      },
+      {
+        "1196": "https://ba.dn.nexoncdn.co.kr/com.nexon.bluearchiveteen/nxpatch/3685b61fb0444d47/bdiff-data.json"
+      }
+    ]
+  }
+}
