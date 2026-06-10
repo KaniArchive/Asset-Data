@@ -1,0 +1,27 @@
+{
+  "GameVersion": "1.69",
+  "AssetVersion": "r92_4dws5t07strq8k0oi7pt",
+  "BundleVersion": "s8tloc7lo3",
+  "AddressablesCatalogUrlRoot": "https://prod-clientpatch.bluearchiveyostar.com/r92_4dws5t07strq8k0oi7pt",
+  "TableBundleCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r92_4dws5t07strq8k0oi7pt/TableBundles/TableCatalog.bytes",
+  "AddressableCatalogs": [
+    {
+      "Platform": "iOS",
+      "MediaBundleCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r92_4dws5t07strq8k0oi7pt/MediaResources/Catalog/MediaCatalog.bytes",
+      "BundlePackingInfoCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r92_4dws5t07strq8k0oi7pt/iOS_PatchPack/BundlePackingInfo.bytes",
+      "AddressablesCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r92_4dws5t07strq8k0oi7pt/iOS_PatchPack/catalog_iOS.zip"
+    },
+    {
+      "Platform": "Windows",
+      "MediaBundleCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r92_4dws5t07strq8k0oi7pt/MediaResources-Windows/Catalog/MediaCatalog.bytes",
+      "BundlePackingInfoCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r92_4dws5t07strq8k0oi7pt/Windows_PatchPack/BundlePackingInfo.bytes",
+      "AddressablesCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r92_4dws5t07strq8k0oi7pt/Windows_PatchPack/catalog_StandaloneWindows64.zip"
+    },
+    {
+      "Platform": "Android",
+      "MediaBundleCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r92_4dws5t07strq8k0oi7pt/MediaResources/Catalog/MediaCatalog.bytes",
+      "BundlePackingInfoCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r92_4dws5t07strq8k0oi7pt/Android_PatchPack/BundlePackingInfo.bytes",
+      "AddressablesCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r92_4dws5t07strq8k0oi7pt/Android_PatchPack/catalog_Android.zip"
+    }
+  ]
+}
