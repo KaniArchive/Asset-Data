@@ -1,27 +1,27 @@
 {
-  "GameVersion": "1.70",
-  "AssetVersion": "r93_tuomvxzek52seobgrg9f",
+  "GameVersion": "1.71",
+  "AssetVersion": "r94_7q3qkaxvp1enjzan1fm2",
   "BundleVersion": "s8tloc7lo3",
-  "AddressablesCatalogUrlRoot": "https://prod-clientpatch.bluearchiveyostar.com/r93_tuomvxzek52seobgrg9f",
-  "TableBundleCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r93_tuomvxzek52seobgrg9f/TableBundles/TableCatalog.bytes",
+  "AddressablesCatalogUrlRoot": "https://prod-clientpatch.bluearchiveyostar.com/r94_7q3qkaxvp1enjzan1fm2",
+  "TableBundleCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r94_7q3qkaxvp1enjzan1fm2/TableBundles/TableCatalog.bytes",
   "AddressableCatalogs": [
     {
       "Platform": "iOS",
-      "MediaBundleCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r93_tuomvxzek52seobgrg9f/MediaResources/Catalog/MediaCatalog.bytes",
-      "BundlePackingInfoCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r93_tuomvxzek52seobgrg9f/iOS_PatchPack/BundlePackingInfo.bytes",
-      "AddressablesCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r93_tuomvxzek52seobgrg9f/iOS_PatchPack/catalog_iOS.zip"
+      "MediaBundleCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r94_7q3qkaxvp1enjzan1fm2/MediaResources/Catalog/MediaCatalog.bytes",
+      "BundlePackingInfoCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r94_7q3qkaxvp1enjzan1fm2/iOS_PatchPack/BundlePackingInfo.bytes",
+      "AddressablesCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r94_7q3qkaxvp1enjzan1fm2/iOS_PatchPack/catalog_iOS.zip"
     },
     {
       "Platform": "Windows",
-      "MediaBundleCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r93_tuomvxzek52seobgrg9f/MediaResources-Windows/Catalog/MediaCatalog.bytes",
-      "BundlePackingInfoCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r93_tuomvxzek52seobgrg9f/Windows_PatchPack/BundlePackingInfo.bytes",
-      "AddressablesCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r93_tuomvxzek52seobgrg9f/Windows_PatchPack/catalog_StandaloneWindows64.zip"
+      "MediaBundleCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r94_7q3qkaxvp1enjzan1fm2/MediaResources-Windows/Catalog/MediaCatalog.bytes",
+      "BundlePackingInfoCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r94_7q3qkaxvp1enjzan1fm2/Windows_PatchPack/BundlePackingInfo.bytes",
+      "AddressablesCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r94_7q3qkaxvp1enjzan1fm2/Windows_PatchPack/catalog_StandaloneWindows64.zip"
     },
     {
       "Platform": "Android",
-      "MediaBundleCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r93_tuomvxzek52seobgrg9f/MediaResources/Catalog/MediaCatalog.bytes",
-      "BundlePackingInfoCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r93_tuomvxzek52seobgrg9f/Android_PatchPack/BundlePackingInfo.bytes",
-      "AddressablesCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r93_tuomvxzek52seobgrg9f/Android_PatchPack/catalog_Android.zip"
+      "MediaBundleCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r94_7q3qkaxvp1enjzan1fm2/MediaResources/Catalog/MediaCatalog.bytes",
+      "BundlePackingInfoCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r94_7q3qkaxvp1enjzan1fm2/Android_PatchPack/BundlePackingInfo.bytes",
+      "AddressablesCatalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r94_7q3qkaxvp1enjzan1fm2/Android_PatchPack/catalog_Android.zip"
     }
   ]
 }
