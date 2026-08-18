@@ -6,23 +6,38 @@
   "min_build_version": "1.90.439170",
   "min_build_number": "439170",
   "patch": {
-    "patch_version": 1653,
-    "resource_path": "https://ba.dn.nexoncdn.co.kr/1571873795/3153ffc531304909/resource-data.json",
+    "patch_version": 1668,
+    "resource_path": "https://ba.dn.nexoncdn.co.kr/1571873795/dd62e81cca3b4d6c/resource-data.json",
     "bdiff_path": [
       {
-        "1644": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/7470b6c1156d4fbb/bdiff-data.json"
+        "1658": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/edf2e48f5c5e48ad/bdiff-data.json"
       },
       {
-        "1643": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/790ee192fdea4ea5/bdiff-data.json"
+        "1657": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/72a90c6db8b04706/bdiff-data.json"
       },
       {
-        "1642": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/84ba2aa9b4594155/bdiff-data.json"
+        "1656": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/e3936cafdb6d4768/bdiff-data.json"
       },
       {
-        "1638": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/2cf1a2c9fc5e44fc/bdiff-data.json"
+        "1655": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/ffec234ccee049f2/bdiff-data.json"
       },
       {
-        "1630": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/b6109d7186924883/bdiff-data.json"
+        "1654": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/73e3718fcacc41ec/bdiff-data.json"
+      },
+      {
+        "1653": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/01513b3dd9cd42c7/bdiff-data.json"
+      },
+      {
+        "1652": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/0889f100cfdc4f72/bdiff-data.json"
+      },
+      {
+        "1648": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/5300ab8171ff4c2d/bdiff-data.json"
+      },
+      {
+        "1647": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/338bac896f3f4c77/bdiff-data.json"
+      },
+      {
+        "1646": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/6dd20f49dcba4b9c/bdiff-data.json"
       }
     ]
   }
