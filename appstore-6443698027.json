@@ -1,43 +1,19 @@
 {
   "api_version": "v1.1",
   "market_game_id": "6443698027",
-  "latest_build_version": "1.90.439170",
-  "latest_build_number": "439170",
-  "min_build_version": "1.90.439170",
-  "min_build_number": "439170",
+  "latest_build_version": "1.93.452024",
+  "latest_build_number": "452024",
+  "min_build_version": "1.93.452024",
+  "min_build_number": "452024",
   "patch": {
-    "patch_version": 1271,
-    "resource_path": "https://ba.dn.nexoncdn.co.kr/6443698027/a3de1977228b4672/resource-data.json",
+    "patch_version": 1272,
+    "resource_path": "https://ba.dn.nexoncdn.co.kr/6443698027/7e87406304e64975/resource-data.json",
     "bdiff_path": [
       {
-        "1261": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/0de77816245744a2/bdiff-data.json"
+        "1271": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/f3065c5487b14153/bdiff-data.json"
       },
       {
-        "1260": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/3c0e6d06007c4dc6/bdiff-data.json"
-      },
-      {
-        "1259": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/5037da440ae74047/bdiff-data.json"
-      },
-      {
-        "1258": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/eeb8c09c47154e3b/bdiff-data.json"
-      },
-      {
-        "1257": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/fc727f15add04f29/bdiff-data.json"
-      },
-      {
-        "1256": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/da27a6c491194bb3/bdiff-data.json"
-      },
-      {
-        "1255": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/b9af47ff314b4114/bdiff-data.json"
-      },
-      {
-        "1251": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/17bc9d6a965f4866/bdiff-data.json"
-      },
-      {
-        "1250": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/f024ff167dd14ce5/bdiff-data.json"
-      },
-      {
-        "1249": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/5dac7cf9061448c3/bdiff-data.json"
+        "1262": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/dc44703f09c44b2e/bdiff-data.json"
       }
     ]
   }
