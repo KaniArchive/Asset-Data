@@ -6,17 +6,20 @@
   "min_build_version": "1.93.452024",
   "min_build_number": "452024",
   "patch": {
-    "patch_version": 1671,
-    "resource_path": "https://ba.dn.nexoncdn.co.kr/1571873795/64f0c9c077df4740/resource-data.json",
+    "patch_version": 1672,
+    "resource_path": "https://ba.dn.nexoncdn.co.kr/1571873795/a20b1632b20f4bf0/resource-data.json",
     "bdiff_path": [
       {
-        "1669": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/789497528f80453f/bdiff-data.json"
+        "1671": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/1832b5984f9b40e7/bdiff-data.json"
       },
       {
-        "1668": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/784ef785d2cc4479/bdiff-data.json"
+        "1669": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/f32b937779204d46/bdiff-data.json"
       },
       {
-        "1659": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/79a08f8df9e040d5/bdiff-data.json"
+        "1668": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/1a069170a0d14b57/bdiff-data.json"
+      },
+      {
+        "1659": "https://ba.dn.nexoncdn.co.kr/1571873795/nxpatch/759284c5cb604956/bdiff-data.json"
       }
     ]
   }
