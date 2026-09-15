@@ -6,71 +6,101 @@
   "min_build_version": "1.93.452024",
   "min_build_number": "452024",
   "patch": {
-    "patch_version": 1283,
-    "resource_path": "https://ba.dn.nexoncdn.co.kr/6443698027/6956e6aa20a44b2e/resource-data.json",
+    "patch_version": 1293,
+    "resource_path": "https://ba.dn.nexoncdn.co.kr/6443698027/a9d799fc488b4698/resource-data.json",
     "bdiff_path": [
       {
-        "1282": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/84f5502ebe9840c3/bdiff-data.json"
+        "1292": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/794e516283d84f33/bdiff-data.json"
       },
       {
-        "1281": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/ae05d2d72c1b4dd7/bdiff-data.json"
+        "1291": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/36ec2ca5be964d40/bdiff-data.json"
       },
       {
-        "1280": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/d17d71fdacb14d2a/bdiff-data.json"
+        "1290": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/24a28acb21cc43b5/bdiff-data.json"
       },
       {
-        "1279": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/affbcbc3c4aa4a21/bdiff-data.json"
+        "1289": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/2e8b0d0802ec4c60/bdiff-data.json"
       },
       {
-        "1278": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/806dc059e94f429a/bdiff-data.json"
+        "1288": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/1a8f9895788d4233/bdiff-data.json"
       },
       {
-        "1277": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/66877115a3524cc1/bdiff-data.json"
+        "1287": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/6f68d0464bb0436c/bdiff-data.json"
       },
       {
-        "1276": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/4b1c984d4a4a4d51/bdiff-data.json"
+        "1286": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/2b30927ecf7f4379/bdiff-data.json"
       },
       {
-        "1275": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/7dd99645a8554530/bdiff-data.json"
+        "1285": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/000ecac0044f45c0/bdiff-data.json"
       },
       {
-        "1274": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/a1f9859993404cb8/bdiff-data.json"
+        "1284": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/0109562b72c24c41/bdiff-data.json"
       },
       {
-        "1273": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/fae5dc2f27824cb8/bdiff-data.json"
+        "1283": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/8dace097053d40b3/bdiff-data.json"
       },
       {
-        "1272": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/4e846c3331bd49f3/bdiff-data.json"
+        "1282": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/5a7e70e563984444/bdiff-data.json"
       },
       {
-        "1271": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/84dfcbf06cb240c5/bdiff-data.json"
+        "1281": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/2cd4723d52a845d1/bdiff-data.json"
       },
       {
-        "1270": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/67b9c811c1824018/bdiff-data.json"
+        "1280": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/c51cecf661e54ad2/bdiff-data.json"
       },
       {
-        "1269": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/fd435b5b41de4e18/bdiff-data.json"
+        "1279": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/372ded4a8fbf4182/bdiff-data.json"
       },
       {
-        "1268": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/45ae13e07a9144e8/bdiff-data.json"
+        "1278": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/baa21348e5dc456f/bdiff-data.json"
       },
       {
-        "1267": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/ba76f27d85a54126/bdiff-data.json"
+        "1277": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/93803be88fcc4156/bdiff-data.json"
       },
       {
-        "1266": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/24a04ea48f874479/bdiff-data.json"
+        "1276": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/b78efb2e5b9b46b9/bdiff-data.json"
       },
       {
-        "1265": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/321f1561f03c4d28/bdiff-data.json"
+        "1275": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/1503bb59eb214c6a/bdiff-data.json"
       },
       {
-        "1264": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/0184d3f53f4b4183/bdiff-data.json"
+        "1274": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/a3fa52915e1648f4/bdiff-data.json"
       },
       {
-        "1263": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/773dd8a121524874/bdiff-data.json"
+        "1273": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/49352d7a899342ce/bdiff-data.json"
       },
       {
-        "1262": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/01141915b5b1465f/bdiff-data.json"
+        "1272": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/455e7deb1ee5442c/bdiff-data.json"
+      },
+      {
+        "1271": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/e5ae3ea21cc547c2/bdiff-data.json"
+      },
+      {
+        "1270": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/dab4c630bbef4a9e/bdiff-data.json"
+      },
+      {
+        "1269": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/5cf1b653fb734ec5/bdiff-data.json"
+      },
+      {
+        "1268": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/078c7b05e3064528/bdiff-data.json"
+      },
+      {
+        "1267": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/d42dbbd299f74582/bdiff-data.json"
+      },
+      {
+        "1266": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/19ec244c48c34246/bdiff-data.json"
+      },
+      {
+        "1265": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/01f2137ebbaf482d/bdiff-data.json"
+      },
+      {
+        "1264": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/f6ed0e31b2c743b2/bdiff-data.json"
+      },
+      {
+        "1263": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/dcbb2aa9d3684143/bdiff-data.json"
+      },
+      {
+        "1262": "https://ba.dn.nexoncdn.co.kr/6443698027/nxpatch/00eb321377f84930/bdiff-data.json"
       }
     ]
   }
